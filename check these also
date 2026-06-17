@@ -1,0 +1,83 @@
+# Spiritual AI Remaining Changes Checklist
+
+Date: June 16, 2026
+Site reviewed: spiritualai.store
+
+## Summary
+
+Most of the requested trust and pricing updates are visible on the page. The main remaining concern is the small live-counter claim that says “No shift in 21 days?” because it reads vague, hard to verify, and slightly gimmicky next to the decoded/joining counter.
+
+## Remaining Fixes
+
+### 1. Replace or clarify “No shift in 21 days?”
+
+Status: Needs revision
+
+Current concern:
+- The phrase “No shift in 21 days?” is unclear.
+- It does not explain what kind of “shift” is being promised or measured.
+- It may create an expectation that cannot be objectively verified.
+- Because it appears beside a live-looking counter, it can feel like a marketing pressure tactic.
+
+Recommended action:
+- Replace it with a concrete, verifiable statement, or remove it entirely.
+- Avoid implying guaranteed transformation within a specific number of days unless that promise is backed by clear terms.
+
+Suggested copy alternatives:
+- “Start with a free Blueprint. Decide on any paid options after you see the pricing.”
+- “Your free Blueprint is generated first. Optional next steps are shown before checkout.”
+- “Explore your Blueprint at no cost. Paid products are optional and clearly priced.”
+- “Not sure where to begin? Start with the free Blueprint.”
+- “No pressure to buy. Review your Blueprint first, then choose what comes next.”
+
+If a time-based line is still desired:
+- “Try the free Blueprint today. Your next steps are optional.”
+- “Begin with a free Blueprint; no subscription is required to start.”
+
+Best recommendation:
+- Remove “No shift in 21 days?” and use a trust-building line focused on the free Blueprint and optional pricing instead.
+
+### 2. Clarify live counters
+
+Status: Needs verification and helper copy
+
+Current concern:
+- The page shows counter-style numbers such as seekers discovered/decoded.
+- The numbers may be fine, but they should be clearly labeled so users understand what they represent.
+- Any counter that appears live should be accurate, explainable, and not misleading.
+
+Recommended action:
+- Confirm the source of each number.
+- Confirm whether the number is real-time, weekly, lifetime, estimated, or manually updated.
+- Add short helper text near the counter explaining what it means.
+- Avoid using “live” styling if the number is not actually live.
+
+Suggested helper copy:
+- “This number reflects completed Blueprint sessions this week.”
+- “Updated periodically based on completed Blueprint scans.”
+- “Count reflects total Blueprints generated on Spiritual AI.”
+- “Weekly count of completed Blueprint discoveries.”
+
+If the counter is not dynamic:
+- Label it as a static milestone rather than a live counter.
+- Example: “Over 14,000 Blueprints generated.”
+
+### 3. Keep verified trust and pricing changes
+
+Status: Verified — do not regress
+
+The following items are already visible and should remain in place:
+- The page states that the free Blueprint is generated at no cost.
+- The page states that optional products start at $33.
+- The page states that final pricing is shown before checkout.
+- The chat/CTA area includes nearby “See pricing” and “Data policy” links.
+- The three-step flow is clear: start your scan, neural analysis, and get your solution.
+
+Regression guard:
+- Keep this pricing and policy language close to the main CTA/chat entry point.
+- Do not hide pricing details lower on the page only.
+- Keep “free Blueprint” language clear and prominent.
+
+## Final Recommendation
+
+Make one small copy pass around the live counter area: remove or replace “No shift in 21 days?”, clarify what each counter means, and keep the already-fixed pricing and policy language exactly where users can see it before starting.
